@@ -5,7 +5,7 @@ This package must run in a chosen package (needs app_config.py)
 
 import unittest2 as unittest
 
-from base import IntegrationTestCase
+from .base import IntegrationTestCase
 
 from Products.CMFCore.utils import getToolByName
 
