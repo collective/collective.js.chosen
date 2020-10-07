@@ -8,7 +8,7 @@ Introduction
 Description
 ==============
 
-- Integrates chosen & ajaxchosen resources (js, css) into plone.
+- Integrates Chosen_ resources (js, css) into plone.
 
 - You can view a sample at http://someplonesite/@@chosen-js-test
 
@@ -36,5 +36,7 @@ Authors
 Contributors
 -----------------
 
+- Tobias Herp <tobias.herp@visaplan.com>
 
  
+.. _Chosen: https://github.com/harvesthq/chosen
